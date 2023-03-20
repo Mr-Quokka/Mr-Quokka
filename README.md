@@ -1,32 +1,15 @@
 # Lou Valade
 
-Bonjour Bonjour, moi c'est Lou Valade
+Hi, I'm Lou Valade 
 
-Je suis étudiant en 2ème année de BUT informatique à l'IUT Clermont Auvergne. <img src="https://upload.wikimedia.org/wikipedia/fr/2/2b/Logo_IUT_Clermont_Auvergne.png" height="50px">
+I'm a student in 3 years diploma in computer science at the IUT Clermont Auvergne.
 
-Votre mission si vous l'acceptez, est de me prendre en stage pour 10 semaines de avril à juin et en alternance pour la rentrée 2023.
+I'm looking for an internship for 10 weeks in web development.
 
-
-
-## Qui je suis ?
-
-Je suis... je suis... un amoureux des quokkas, ces petits êtres pipou
-
-<img src="./images/quokka.jpg" height="150px">
+valadelou@gmail.com 💌
 
 
+# My favourite languages 💖
 
-
-
-
-
-# Mes langages de cœur 💖 
-
- 
-
-
-
-
-
-# Mes projets
+# My projects
 
