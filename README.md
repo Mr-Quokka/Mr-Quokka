@@ -8,8 +8,22 @@ I'm looking for an internship for 10 weeks in web development.
 
 valadelou@gmail.com 💌
 
+## My public projects 💻
 
-# My favourite languages 💖
+OKI : A package manager for C and C++.
 
-# My projects
+I took part in the development of the web interface
 
+## My favourite languages 💖
+
+🟡 JavaScript -> ReactJs
+
+🟣 PHP
+
+🔵 SQL -> PostgreSQL, MySQL
+
+## Tools that I like use 🛠
+
+Material UI
+
+JetBrains IDEs
